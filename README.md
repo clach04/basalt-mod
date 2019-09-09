@@ -1,5 +1,7 @@
 # Pebble App Android P fix
 
+NOTE also see https://www.reddit.com/r/pebble/comments/cuwgaw/caller_id_showing_unknown_on_incoming_phone_calls/
+
 Adds android.permission-group.CALL_LOG to com.getpebble.android.basalt.apk
 
 Get APK from: https://apps.evozi.com/apk-downloader/?id=com.getpebble.android.basalt
